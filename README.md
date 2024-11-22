@@ -1,5 +1,10 @@
 # Global-Solution
 
+## Integrantes:
+- **João Vitor Valaitis Paulo** - RM: 553972
+- **Carlos Eduardo Ariza** - RM: 553461
+- **Fernando Shinji Tanigushi** - RM: 553587
+
 # EconomizeAPI
 
 ## Descrição
